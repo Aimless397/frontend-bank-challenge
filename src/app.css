@@ -1,0 +1,9 @@
+.app {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  overflow-wrap: anywhere;
+}
+
+.appRow {
+  width: 100vw;
+}
