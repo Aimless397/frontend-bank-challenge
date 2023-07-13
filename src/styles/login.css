@@ -1,0 +1,21 @@
+.app {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100vw;
+}
+
+.appRow {
+  width: 100vw;
+}
+
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
